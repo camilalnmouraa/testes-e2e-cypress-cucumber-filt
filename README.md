@@ -10,6 +10,6 @@
 
 ## Vamos começar?
 
-Vá para a seção [estrutura da apresentação]().
+Vá para a seção [estrutura da apresentação](./lessons/_course-structure_.md).
 
 ___
