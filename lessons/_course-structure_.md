@@ -1,4 +1,4 @@
-# Estrutura do curso
+# Estrutura da Apresentação
 
 Conheça a estrutura do curso de testes _end-to-end_ com Cypress no FILT.
 
