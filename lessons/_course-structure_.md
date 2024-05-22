@@ -23,12 +23,6 @@ Acesse o meu Guia de inicio rápido e faça a instalação do projeto no seu com
 Com o projeto de testes configurado, haverão aulas específicas para a criação dos scripts de testes automatizados para as diversas funcionalidades do FILT.
 
 
-### Exercícios
-
-Na minha opinião, a prática é a melhor forma de fixar o conhecimento.
-
-Portanto, cada aula terá um ou mais exercícios.
-
 ___
 
 Agora que você já conhece a estrutura do curso, vá para a seção de [pré-requisitos](./_pre-requirements_.md).
