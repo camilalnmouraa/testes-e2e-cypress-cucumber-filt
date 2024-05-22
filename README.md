@@ -6,7 +6,15 @@
 
 ## O que vamos ver:
 
-- 
+- Pré-requisitos
+- FILT
+- Setup
+- Testando o fluxo de Login
+- Conhecendo o Cypress
+- Boas Práticas de Desenvolvimento com Cypress
+- Testando um CRUD para "Tipo de Documento"
+- Conteúdos de Cypress da Talking About Testing
+- Parabéns, você conseguiu!
 
 ## Vamos começar?
 
